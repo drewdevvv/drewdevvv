@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drewdevvv
 - 👀 I’m Learning IoT and Full Stack
-- 🌱 I am gaining experience to create a more user friendly experience for outdated web services.
+- 🌱 I am creating a more user friendly experience for outdated web services.
 - 📫 How to reach me me@drewponce.dev
 
 <!---
