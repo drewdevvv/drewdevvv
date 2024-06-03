@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @drewdevvv, I’m an enterprise web developer, and lifelong learner. 🌱
+- 👋 Hi, I’m @drewdevvv, I’m an enterprise web developer and lifelong learner. 🌱
 - 📫 reach me at <a href="mailto:me@drewponce.dev">me@drewponce.dev</a>
+https://drewponce.dev
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drewdevvv&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-profile-trophy.vercel.app/?username=drewdevvv&theme=juicyfresh&no-bg=true" />
