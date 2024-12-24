@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Andrew Ponce, I’m a developer and lifelong learner. 🌱
 - 📫 reach me at <a href="mailto:me@drewponce.dev">me@drewponce.dev</a>
-https://drewponce.dev
+- Portfolio site https://drewponce.dev
+- My lil' company https://developir.net
 
 
 
