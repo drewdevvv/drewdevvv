@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drewdevvv, I’m a developer and lifelong learner. 🌱
+- 👋 Hi, I’m Andrew Ponce, I’m a developer and lifelong learner. 🌱
 - 📫 reach me at <a href="mailto:me@drewponce.dev">me@drewponce.dev</a>
 https://drewponce.dev
 
