@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=drewdevvv&title=-Stars,-Followers" />
+<img src="https://github-profile-trophy.vercel.app/?username=drewdevvv&title=-Followers" />
 <!---
 drewdevvv/drewdevvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
