@@ -1,11 +1,7 @@
-### Hi there 👋 I'm Drew!
+### Hi, I'm Andrew (aka drew) Ponce
 
 
-Full Stack Software Engineer with Proficiency in:
-- React/Next.js/C#
-- Docker, Cloudflare, Azure
-- PostgreSQL/MySQL/SQL Server
-- APIs, Model Context Protocol
+Software Engineer / Developer / Student
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drew-ponce/)
 
