@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Drew!
 
-🔭 Full Stack Software Engineer with Proficiency in:
+
+Full Stack Software Engineer with Proficiency in:
 - React/Next.js/C#
-- Python, Docker, 
+- Docker, Cloudflare, Azure
 - PostgreSQL/MySQL/SQL Server
 - APIs, Model Context Protocol
 
